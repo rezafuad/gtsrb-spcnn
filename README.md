@@ -6,4 +6,16 @@ Caffe Model for traffic sign classification described in
 >2018 Indonesian Association for Pattern Recognition (INAPR) International Conference<br/>
 >[Preprint]
 
+Results:
 
+| Method                            | #Params       | Accuracy      |
+| --------------------------------- |     :---:     |     :---:     |
+| Human Performance [21]            |     -         |   98.84%      |
+| EPCNN [12]                        |   5.22 M      |   99.70%      |
+| STDCNN [11]                       |   14.6 M      |   99.71%      |
+| EHLDCNN [10]                      |   23.2 M      |   99.65%      |
+| MCDCNN [9]                        |   38.5 M      |   99.46%      |
+| µNet [8]                          |   0.51 M      |   98.90%      |
+| **Our approach (SP-ResNet20)**    |   **1.41 M**  | **99.39%**    |
+| **Our approach (SP-ResNet32)**    |   **2.39 M**  | **99.70%**    |
+| **Our approach (Ensemble)**       |   **3.80 M**  | **99.75%**    |
