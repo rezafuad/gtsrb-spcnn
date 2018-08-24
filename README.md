@@ -6,7 +6,7 @@ Caffe Model for traffic sign classification described in
 > 2018 Indonesian Association for Pattern Recognition (INAPR) International Conference<br/>
 > [Preprint]
 
-Comparison between several different approaches and our method on GTSRB (Germany Traffic Sign Recognition Benchmark) dataset:
+#### 1. Comparison between several different approaches and our method on GTSRB (Germany Traffic Sign Recognition Benchmark) dataset:
 
 | Method                            | #Params       | Accuracy      |
 | --------------------------------- |     :---:     |     :---:     |
@@ -19,6 +19,14 @@ Comparison between several different approaches and our method on GTSRB (Germany
 | **Our approach (SP-ResNet20)**    |   **1.41 M**  | **99.39%**    |
 | **Our approach (SP-ResNet32)**    |   **2.39 M**  | **99.70%**    |
 | **Our approach (Ensemble)**       |   **3.80 M**  | **99.75%**    |
+
+#### 2. Comparison between several different approaches and our method on BTSC (Belgium Traffic Sign Classification) dataset:
+
+To do
+
+#### 3. Comparison between several different approaches and our method on CURE-TSR (Challenging Unreal and Real Environments for Traffic Sign Recognition) dataset:
+
+To do
 
 ### To Do
 - [x] Experiments on GTSRB Dataset
