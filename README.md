@@ -4,7 +4,7 @@ Caffe Model for traffic sign classification described in
 > "Lightweight Spatial Pyramid Convolutional Neural Network for Traffic Sign Classification"<br/>
 > Reza Fuad Rachmadi, Gou Koutaki, and Kohichi Ogata<br/>
 > 2018 Indonesian Association for Pattern Recognition (INAPR) International Conference<br/>
-> [Preprint]
+> [<a href="http://web.ee.its.ac.id/~fuad/papers/INAPR2018.pdf">Preprint</a>]
 
 #### 1. Comparison between several different approaches and our method on GTSRB (Germany Traffic Sign Recognition Benchmark) dataset:
 
